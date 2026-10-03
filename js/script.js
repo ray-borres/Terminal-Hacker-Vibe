@@ -1,0 +1,1 @@
+const _0xd10 = "cybersurferCTF{d3c0y_10_tr4p}";
